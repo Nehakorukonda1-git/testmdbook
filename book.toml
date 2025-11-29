@@ -1,0 +1,5 @@
+[book]
+title = "mdBook-Data Contract Documentation"
+authors = ["nay-ha"]
+language = "en"
+src = "src"
